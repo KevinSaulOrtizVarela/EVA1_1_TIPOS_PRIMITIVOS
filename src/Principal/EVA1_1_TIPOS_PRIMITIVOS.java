@@ -4,6 +4,7 @@
 LOS TIPOS DE DATOS PRIMITIVOS EN JAVA*/
 
 package Principal;
+
 import java.util.Scanner;
 
 /**
